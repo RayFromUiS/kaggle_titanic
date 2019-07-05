@@ -2,8 +2,8 @@
 This is a try on Kaggle titanic competion,based on learning from Udacity course, Intro to ML
 
 1. Load and preprocess the image dataset
-2. Train the image classifier on your dataset
-3. Use the trained classifier to predict image content
+2. Train the classifier on your dataset
+3. Use the trained classifier to predict on test data
 
 # Project flow
 * Load and preprocess from [here]https://www.kaggle.com/c/titanic/
